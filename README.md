@@ -1,4 +1,4 @@
-# Face Emotion Detector 🎭
+# Face Emotion Detector 
 
 A real-time AI face emotion detector built with Python, OpenCV, and DeepFace.
 Detects faces from your webcam and labels emotions: happy, sad, angry, surprised, fearful, disgusted, neutral.
