@@ -1,0 +1,6 @@
+# Face Emotion Detector — Requirements
+# Install with: pip install -r requirements.txt
+
+opencv-python>=4.8.0
+deepface>=0.0.90
+tf-keras>=2.16.0
